@@ -1,0 +1,15 @@
+{
+    "FormattingOptions": {
+      "newLine": "\n",
+      "useTabs": false,
+      "tabSize": 4,
+      "indentationSize": 4,
+      "NewLinesForBracesInControlBlocks": false,
+      "NewLinesForBracesInTypes": false,
+      "NewLineForCatch": false,
+      "NewLineForElse": false,
+      "NewLinesForBracesInMethods": false,
+      "NewLineForMembersInAnonymousTypes": false,
+      "NewLinesForBracesInLambdaExpressionBody": false
+    }
+  }
