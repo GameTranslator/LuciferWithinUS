@@ -5,7 +5,7 @@
     <Description>Lucifer Within Us: Localization Library</Description>
     <TargetFramework>net451</TargetFramework>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
-    <Version>0.1.0</Version>
+    <Version>0.2.0</Version>
 
     <PublishSingleFile>true</PublishSingleFile>
     <SelfContained>false</SelfContained>
